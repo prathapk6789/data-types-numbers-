@@ -48,7 +48,7 @@ b=20
 a**=b
 print(a)
 print(b)
-
+#comparision opraters
 a=10
 b=20
 print(a>b)
@@ -72,7 +72,7 @@ print(a>=b)
 a=10
 b=20
 print(a<=b)
-
+#identity opraters
 a=10
 b=20
 print( a is b)
